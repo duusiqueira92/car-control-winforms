@@ -22,11 +22,11 @@ namespace DTO
             set { nome_usuario = value; }
         }
 
-        private string data_cadstro;
+        private string data_cadastro;
         public string Data_cadastro
         {
-            get { return data_cadstro; }
-            set { data_cadstro = value; }
+            get { return data_cadastro; }
+            set { data_cadastro = value; }
         }
 
         private string senha;
